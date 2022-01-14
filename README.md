@@ -10,7 +10,6 @@
 	6 : rollback_config_xml
 	7 : add_realm_to_config_xml
 	8 : add_standart_definitions_to_config_xml
-## You can include one or more step numbers in STEP_STRING in order to do that step.
 
 # Prerequisites:
 ## 1. Download 'Quick Installer intended for Oracle WebLogic Server and Oracle Coherence development only' zip from the link below: 
@@ -25,3 +24,5 @@
 ## bash$ OTHER_DOMAIN_PATH=/Users/ttoakan/Dev/tools/weblogic12c_macosx/Oracle_Home/user_projects/domains/MY-STB-DMN
 ## bash$ STEP_STRING=0123467
 ## bash$ ./weblogic-configuration.sh $MY_ORACLE_HOME $MY_DOMAIN_NAME $OTHER_DOMAIN_PATH $STEP_STRING
+
+## Note that, you can include anyone or more than one step numbers in STEP_STRING in order to do that step.
