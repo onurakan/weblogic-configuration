@@ -16,7 +16,7 @@
 ## 1. Download 'Quick Installer intended for Oracle WebLogic Server and Oracle Coherence development only' zip from the link below: 
 ##      https://www.oracle.com/middleware/technologies/weblogic-server-installers-downloads.html#license-lightbox 
 ## 2. This link should download fmw_12.## 2.1.4.0_wls_quick_Disk1_1of1.zip
-## 3. Using this zip you can install Oracle 12.2.1.4.0.
+## 3. Unzip this file. weblogic-configuration.sh uses fmw_12.2.1.4.0_wls_quick.jar from this zip in order to install Oracle 12.2.1.4.0.
 
 
 # sample usage:
