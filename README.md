@@ -9,7 +9,7 @@
 	5 : create_config_copy_xml
 	6 : rollback_config_xml
 	7 : add_realm_to_config_xml
-	8 :	add_standart_definitions_to_config_xml
+	8 : add_standart_definitions_to_config_xml
 ## You can include one or more step numbers in STEP_STRING in order to do that step.
 
 # Prerequisites:
